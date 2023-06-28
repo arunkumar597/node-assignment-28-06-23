@@ -1,0 +1,4 @@
+Problem 1.
+Make add Customer api for customer, assume admin is adding customer ..
+use the input params validation, code commenting, logging and check for
+duplicates where required.
